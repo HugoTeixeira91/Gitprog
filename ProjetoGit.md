@@ -1,0 +1,1 @@
+Fichero experimental para Git
